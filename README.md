@@ -11,6 +11,8 @@ Ethers: 5.5
 Solidity: 0.8.4
 ```
 
+![Angular Wallet Transfer DApp](screenshot_ngdapp.png)
+
 ## Getting started
 
 1. Clone this repo
